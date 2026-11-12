@@ -8,6 +8,7 @@ My journey of solving data structures and algorithms problems from LeetCode, org
 | ------- |
 | [0007-reverse-integer](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
@@ -24,5 +25,26 @@ My journey of solving data structures and algorithms problems from LeetCode, org
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
