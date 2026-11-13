@@ -10,6 +10,7 @@ My journey of solving data structures and algorithms problems from LeetCode, org
 | [0009-palindrome-number](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,10 +28,12 @@ My journey of solving data structures and algorithms problems from LeetCode, org
 | ------- |
 | [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -47,4 +50,12 @@ My journey of solving data structures and algorithms problems from LeetCode, org
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vaishnavi-la/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
